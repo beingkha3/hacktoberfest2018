@@ -2125,3 +2125,12 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Zuhair Khatri](https://github.com/beingkha3)
+Place: Mumbai, India
+About: Electronics Engineer
+Programming Language: C/C++, Python, ASM
+Email:zuhairkhatri99@gmail.com
+
+
+
